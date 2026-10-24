@@ -42,11 +42,13 @@ The Sales Management System is a web-based application developed using Python, S
 
 3. Create the database and tables in MySQL.
 4. Configure the database connection in `db.py`.
-5. Start the application:
+5. Start the Streamlit application:
 
    ```bash
    streamlit run app.py
    ```
+
+
 
 ## Project Objective
 
